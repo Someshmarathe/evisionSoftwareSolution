@@ -1,4 +1,4 @@
-public class stringBuilder {
+public class StringBuilder {
     public static void main(String[] args){
         StringBuilder sb = new StringBuilder("ABEF");
         System.out.println("Get Class Of Object : " +sb.getClass());
